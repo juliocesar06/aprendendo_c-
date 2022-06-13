@@ -1,0 +1,15 @@
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\bin\Debug\net6.0\meuApp.exe
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\bin\Debug\net6.0\meuApp.deps.json
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\bin\Debug\net6.0\meuApp.runtimeconfig.json
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\bin\Debug\net6.0\meuApp.dll
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\bin\Debug\net6.0\meuApp.pdb
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.AssemblyInfo.cs
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.dll
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\refint\meuApp.dll
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.pdb
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\meuApp.genruntimeconfig.cache
+C:\Users\Julio\Documents\programaçao\cSharp\meuApp\obj\Debug\net6.0\ref\meuApp.dll
